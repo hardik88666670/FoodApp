@@ -1,12 +1,36 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🧑‍🍳 What You Can Do:
+Browse a wide selection of food items
 
-Currently, two official plugins are available:
+Filter by categories like Fast Food, Dessert, Beverages, etc.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Search specific dishes instantly
 
-## Expanding the ESLint configuration
+Add to Cart and manage item quantities
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+View Cart items before placing an order
+
+
+
+🛠️ How It Was Built:
+React.js for dynamic and component-based UI
+
+Redux Toolkit for state management (cart, category, search)
+
+React Icons for clean icon integration
+
+CSS / Tailwind CSS for modern responsive styling
+
+Vercel used for live hosting
+
+
+
+💡 Highlights:
+Fully functional cart system
+
+Real-time UI updates
+
+Mobile-friendly design
+
+Clean, organized project structure
+
